@@ -1,0 +1,8 @@
+C:\Users\sabri\Desktop\vs proje\alıştırmalar2\alıştırmalar2\bin\Debug\alıştırmalar2.exe.config
+C:\Users\sabri\Desktop\vs proje\alıştırmalar2\alıştırmalar2\bin\Debug\alıştırmalar2.exe
+C:\Users\sabri\Desktop\vs proje\alıştırmalar2\alıştırmalar2\bin\Debug\alıştırmalar2.pdb
+C:\Users\sabri\Desktop\vs proje\alıştırmalar2\alıştırmalar2\obj\Debug\alıştırmalar2.csproj.AssemblyReference.cache
+C:\Users\sabri\Desktop\vs proje\alıştırmalar2\alıştırmalar2\obj\Debug\alıştırmalar2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabri\Desktop\vs proje\alıştırmalar2\alıştırmalar2\obj\Debug\alıştırmalar2.csproj.CoreCompileInputs.cache
+C:\Users\sabri\Desktop\vs proje\alıştırmalar2\alıştırmalar2\obj\Debug\alıştırmalar2.exe
+C:\Users\sabri\Desktop\vs proje\alıştırmalar2\alıştırmalar2\obj\Debug\alıştırmalar2.pdb
